@@ -15,7 +15,7 @@ I bring an **investigative mindset, a legal foundation, and hands-on cybersecuri
 ### 📂 Featured projects
 | Project | What it is | Stack |
 |---|---|---|
-| SOC Dashboard *(coming soon)* | SIEM dashboard with severity-coded alerts and live refresh. Capstone project; I was Product Owner across 7 sprints | Elastic Stack (ELK), Kibana |
+| [mini-soc-dashboard](https://github.com/auxilio3/mini-soc-dashboard) | Home-lab SOC: 8 MITRE-mapped detections, alert dedup, tuning (59 → 0 false positives), Kibana dashboard | Elastic Stack, Kibana, Python, Docker |
 | Threat Modeling Portfolio *(coming soon)* | Threat models and risk analyses of real mobile/IoT systems | STRIDE, DFDs, NIST |
 | [job-application-tracker](https://github.com/auxilio3/job-application-tracker) | Web app for tracking job applications (COP4751) | HTML |
 | [programming-coursework](https://github.com/auxilio3/programming-coursework) | Java and C projects, from fundamentals to OOP systems and file I/O | Java, C |
