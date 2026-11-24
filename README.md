@@ -8,7 +8,7 @@ I bring an **investigative mindset, a legal foundation, and hands-on cybersecuri
  
 ### 🔍 What I'm working on
 - 🛡️ **Student IT Security Analyst @ FIU**: investigating Splunk alerts for brute-force attacks, triaging endpoint alerts in CrowdStrike Falcon, escalating incidents, and supporting account recovery
-- 🏛️ **GRC (Village of Palmetto Bay internship)**: completed a NIST-mapped cybersecurity maturity assessment and a 3-year remediation roadmap for a municipal government
+- 🏛️ **GRC (internship)**: completed a NIST-mapped cybersecurity maturity assessment and a 3-year remediation roadmap
 - 🎣 **PhishGuard** (capstone): a phishing-awareness web app focused on teaching users to spot attacks, not just detecting them
 ### 📂 Featured projects
 | Project | What it is | Stack |
