@@ -1,13 +1,14 @@
 # Hi, I'm Alicia 👋
  
-**Cybersecurity student at FIU · Student IT Security Analyst · Bilingual (EN/ES)**
+**Student IT Security Analyst @ FIU · B.S. Cybersecurity, Dec 2026 · Bilingual (EN/ES)**
  
 I bring an **investigative mindset, a legal foundation, and hands-on cybersecurity skills** to security work. I started out in criminal justice and legal operations, and now I monitor, triage, and escalate security events. I'm especially interested in **SOC operations, digital forensics, GRC, and security in the gaming industry**.
  
 ---
  
 ### 🔍 What I'm working on
-- 🛡️ **Student IT Security Analyst @ FIU**: monitoring SIEM alerts, triaging brute-force activity, escalating incidents, and supporting account recovery
+- 🛡️ **Student IT Security Analyst @ FIU**: investigating Splunk alerts for brute-force attacks, triaging endpoint alerts in CrowdStrike Falcon, escalating incidents, and supporting account recovery
+- 🏛️ **GRC (Village of Palmetto Bay internship)**: completed a NIST-mapped cybersecurity maturity assessment and a 3-year remediation roadmap for a municipal government
 - 🎣 **PhishGuard** (capstone): a phishing-awareness web app focused on teaching users to spot attacks, not just detecting them
 - 📱 **Venmo security case study**: threat modeling (STRIDE), risk assessment (SLE/ARO/ALE), incident response planning, and compliance mapping
 - 🧪 Building a home lab for detection engineering
@@ -20,14 +21,15 @@ I bring an **investigative mindset, a legal foundation, and hands-on cybersecuri
 | [programming-coursework](https://github.com/auxilio3/programming-coursework) | Java and C projects, from fundamentals to OOP systems and file I/O | Java, C |
  
 ### 🧰 Skills & tools
-**Security:** SIEM (Splunk, Elastic/Kibana) · Incident triage & escalation · Threat modeling (STRIDE) · Risk assessment · Vulnerability assessment · NIST CSF · GRC
-**Technical:** Java · C · HTML · SQL · Git
-**Other:** Legal research & documentation · Stakeholder communication · English/Spanish
+**Security:** Splunk · CrowdStrike Falcon · Elastic/Kibana · Wireshark · Incident triage & escalation · Threat modeling (STRIDE) · Risk & vulnerability assessment · NIST frameworks · GRC
+**Technical:** Python · SQL · R · Linux command line · Java · C · HTML · Git
+**Data:** Tableau · Data visualization
+**Other:** Legal research & documentation · Stakeholder communication · Spanish & English (native)
  
 ### 📜 Certifications
 - Google Cybersecurity Professional Certificate
 - Google Data Analytics Professional Certificate
-- Cisco: Junior Cybersecurity Analyst / SOC
+- Cisco Security Operations Center (SOC)
 - Microsoft SC-900: Security, Compliance & Identity Fundamentals
 - CodePath Cybersecurity, *with Honors*
 ### 🤝 Community
@@ -38,4 +40,3 @@ I bring an **investigative mindset, a legal foundation, and hands-on cybersecuri
  
 <!-- Optional stats card: delete this block if you don't like it -->
 <!-- ![Alicia's GitHub stats](https://github-readme-stats.vercel.app/api?username=auxilio3&show_icons=true&hide_border=true) -->
- 
