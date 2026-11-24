@@ -1,16 +1,41 @@
-## Hi there 👋
-
-<!--
-**auxilio3/auxilio3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Alicia 👋
+ 
+**Cybersecurity student at FIU · Student IT Security Analyst · Bilingual (EN/ES)**
+ 
+I bring an **investigative mindset, a legal foundation, and hands-on cybersecurity skills** to security work. I started out in criminal justice and legal operations, and now I monitor, triage, and escalate security events. I'm especially interested in **SOC operations, digital forensics, GRC, and security in the gaming industry**.
+ 
+---
+ 
+### 🔍 What I'm working on
+- 🛡️ **Student IT Security Analyst @ FIU**: monitoring SIEM alerts, triaging brute-force activity, escalating incidents, and supporting account recovery
+- 🎣 **PhishGuard** (capstone): a phishing-awareness web app focused on teaching users to spot attacks, not just detecting them
+- 📱 **Venmo security case study**: threat modeling (STRIDE), risk assessment (SLE/ARO/ALE), incident response planning, and compliance mapping
+- 🧪 Building a home lab for detection engineering
+### 📂 Featured projects
+| Project | What it is | Stack |
+|---|---|---|
+| SOC Dashboard *(coming soon)* | SIEM dashboard with severity-coded alerts and live refresh. Capstone project; I was Product Owner across 7 sprints | Elastic Stack (ELK), Kibana |
+| Threat Modeling Portfolio *(coming soon)* | Threat models and risk analyses of real mobile/IoT systems | STRIDE, DFDs, NIST |
+| [job-application-tracker](https://github.com/auxilio3/job-application-tracker) | Web app for tracking job applications (COP4751) | HTML |
+| [programming-coursework](https://github.com/auxilio3/programming-coursework) | Java and C projects, from fundamentals to OOP systems and file I/O | Java, C |
+ 
+### 🧰 Skills & tools
+**Security:** SIEM (Splunk, Elastic/Kibana) · Incident triage & escalation · Threat modeling (STRIDE) · Risk assessment · Vulnerability assessment · NIST CSF · GRC
+**Technical:** Java · C · HTML · SQL · Git
+**Other:** Legal research & documentation · Stakeholder communication · English/Spanish
+ 
+### 📜 Certifications
+- Google Cybersecurity Professional Certificate
+- Google Data Analytics Professional Certificate
+- Cisco: Junior Cybersecurity Analyst / SOC
+- Microsoft SC-900: Security, Compliance & Identity Fundamentals
+- CodePath Cybersecurity, *with Honors*
+### 🤝 Community
+- Social Media Director, **WiCyS FIU** (Women in Cybersecurity)
+- WiCyS 2027 Conference Scholarship recipient
+### 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/aliciagiro) · 📍 Miami, FL
+ 
+<!-- Optional stats card: delete this block if you don't like it -->
+<!-- ![Alicia's GitHub stats](https://github-readme-stats.vercel.app/api?username=auxilio3&show_icons=true&hide_border=true) -->
+ 
