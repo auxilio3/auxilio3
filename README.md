@@ -32,9 +32,8 @@ I bring an **investigative mindset, a legal foundation, and hands-on cybersecuri
 - CodePath Cybersecurity, *with Honors*
 ### 🤝 Community
 - Social Media Director, **WiCyS FIU** (Women in Cybersecurity)
-- WiCyS 2027 Conference Scholarship recipient
 ### 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/aliciagiro) · 📍 Miami, FL
+[LinkedIn](https://www.linkedin.com/in/aliciagiro) 
  
 <!-- Optional stats card: delete this block if you don't like it -->
 <!-- ![Alicia's GitHub stats](https://github-readme-stats.vercel.app/api?username=auxilio3&show_icons=true&hide_border=true) -->
